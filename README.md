@@ -8,7 +8,7 @@ Built with Flutter and Dart.
 ![Screenshot 3](todo%20list%20SS%20-%203.png)
 
 ## 🎥 Demo Video
-https://github.com/Sharmilaait58/flutter-todolist-app/blob/main/InShot_20260803_22383...mp4
+https://raw.githubusercontent.com/Sharmilaait58/flutter-todolist-app/main/InShot_20260803_223838309.mp4
 
 ## ✨ Features
 - Add new tasks
